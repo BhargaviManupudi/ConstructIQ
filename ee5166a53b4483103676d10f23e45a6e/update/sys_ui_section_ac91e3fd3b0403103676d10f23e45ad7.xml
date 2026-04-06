@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Device Details" section_id="ac91e3fd3b0403103676d10f23e45ad7" sys_domain="global" table="x_1976947_constr_0_device_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 18:05:41</sys_created_on>
+            <sys_id>84bcb73d3b0003103676d10f23e45acf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1976947_constr_0_device_request" sys_domain="global" view="Default view">ac91e3fd3b0403103676d10f23e45ad7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 18:05:41</sys_created_on>
+            <sys_id>40bcb73d3b0003103676d10f23e45ad0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1976947_constr_0_device_request" sys_domain="global" view="Default view">ac91e3fd3b0403103676d10f23e45ad7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 18:05:41</sys_created_on>
+            <sys_id>0cbcb73d3b0003103676d10f23e45ad0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1976947_constr_0_device_request" sys_domain="global" view="Default view">ac91e3fd3b0403103676d10f23e45ad7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pric0</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 18:05:41</sys_created_on>
+            <sys_id>c4bcb73d3b0003103676d10f23e45ad1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1976947_constr_0_device_request" sys_domain="global" view="Default view">ac91e3fd3b0403103676d10f23e45ad7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_expiration</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 18:05:41</sys_created_on>
+            <sys_id>80bcb73d3b0003103676d10f23e45ad2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1976947_constr_0_device_request" sys_domain="global" view="Default view">ac91e3fd3b0403103676d10f23e45ad7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 18:05:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Device Details</caption>
+            <header>false</header>
+            <name>x_1976947_constr_0_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-05 16:07:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac91e3fd3b0403103676d10f23e45ad7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1976947_constr_0_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ConstructIQ" source="x_1976947_constr_0">ee5166a53b4483103676d10f23e45a6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ConstructIQ">ee5166a53b4483103676d10f23e45a6e</sys_scope>
+            <sys_update_name>sys_ui_section_ac91e3fd3b0403103676d10f23e45ad7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-05 16:07:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
